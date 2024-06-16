@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Khare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -31,7 +33,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityakhare18&show_icons=true&locale=en&bg_color=151515" alt="adityakhare18" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya.khare18&theme=dark&hide_border=false)<br/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
