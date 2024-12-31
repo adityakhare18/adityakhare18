@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Khare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Building Uber**
 
 - 🌱 I’m currently learning **MERN,DSA**
 
