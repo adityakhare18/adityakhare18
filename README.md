@@ -56,9 +56,9 @@
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/aditya khare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya khare" height="30" width="40" /></a>
-  <a href="https://instagram.com/aditya.khare18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.khare18" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/aditya_khare18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_khare18" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adityakhare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya khare" height="30" width="40" /></a>
+  <a href="https://instagram.com/aditya.khare18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.khare18" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/aditya_khare18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_khare18" height="30" width="40" /></a>
 </p>
 
 ---
